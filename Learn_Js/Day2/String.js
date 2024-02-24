@@ -17,4 +17,4 @@ console.log(full_name);
 console.log(full_name.toUpperCase());
 console.log(full_name.toLowerCase());
 // indexof
-console.log(name.indexOf('i'))
+console.log(name.indexpwOf('i'))
